@@ -33,6 +33,11 @@ p{
 
 }
 
+.lightsaber{
+    font-family: "Open Sans",sans-serif;
+    color:rgba(0,0,0,0.7);
+}
+
 p span{
     width:100%;
     text-align: center;
