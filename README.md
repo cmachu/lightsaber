@@ -1,4 +1,4 @@
-# Lightsaber
+# Your own Lightsaber
 Lightsaber is a tiny, light and cute SCSS style sheet with classes and mixins.
 
 With lightsaber, you can present your skills with easy way. Simple - it's skill bar based only on CSS.
@@ -15,4 +15,4 @@ Example:
 You can find me on Jedi training circle <a href="https://cmachu.github.io/lightsaber/">https://cmachu.github.io/lightsaber/</a></p>
 
 ## How to get your own Lightsaber?
-You can install me via bower: `bower install ewok --save`
+You can install me via bower: `bower install lightsaber --save`
